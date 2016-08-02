@@ -20,8 +20,5 @@ public class Program
 		for (int i=0; i < letters.Length; i++)
 		{
 			Console.WriteLine(letters[i]);
-			
 		}
-		
-		
 	}
