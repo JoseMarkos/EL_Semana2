@@ -16,7 +16,8 @@ public class Program
 		letters[2] = Console.ReadLine();
 		
 		Array.Reverse(letters);
-		
+    		Console.WriteLine("");
+    	
 		for (int i=0; i < letters.Length; i++)
 		{
 			Console.WriteLine(letters[i]);
