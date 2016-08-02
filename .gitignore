@@ -1,3 +1,6 @@
 .cs.swn
-/bin
-/obj
+.swp
+
+# VS
+/bin/
+/obj/
