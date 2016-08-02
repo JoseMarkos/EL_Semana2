@@ -1,6 +1,8 @@
 .cs.swn
 .swp
+.exe.config
 
 # VS
-/bin/
-/obj/
+/bin
+/obj
+/Debug
