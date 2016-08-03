@@ -39,9 +39,12 @@ namespace E1
 
             for (int i = 0; i < array_name.Length; i++)
             {
-                Console.WriteLine(array_name[i]);
+                Console.Write(array_name[i] + " ");
             }
+
+            Console.WriteLine("");
         }
 
     }
 }
+
